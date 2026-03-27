@@ -124,11 +124,11 @@ All experiments were conducted on a workstation with an **NVIDIA Tesla V100S GPU
 
 | Method | Accuracy | Specificity | Sensitivity | Precision | F1 Score | Kappa | **Weights** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **YOLOv8m** | — | — | — | — | — | — | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
-| **YOLOv9c** | — | — | — | — | — | — | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
-| **YOLOv10m** | — | — | — | — | — | — | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
-| **YOLOv11m** | — | — | — | — | — | — | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
-| **YOLOv26m** | — | — | — | — | — | — | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
+| **YOLOv8m** | **0.9952 ± 0.0095** | **0.9990 ± 0.0021** | **0.9944 ± 0.0111** | **0.9970 ± 0.0061** | **0.9954 ± 0.0092** | **0.9938 ± 0.0124** | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
+| **YOLOv9c** | **0.9952 ± 0.0095** | **0.9990 ± 0.0021** | **0.9944 ± 0.0111** | **0.9970 ± 0.0061** | **0.9954 ± 0.0092** | **0.9938 ± 0.0124** | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
+| **YOLOv10m** | 0.9786 ± 0.0216 | 0.9952 ± 0.0049 | 0.9600 ± 0.0435 | 0.9881 ± 0.0113 | 0.9691 ± 0.0336 | 0.9711 ± 0.0299 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
+| **YOLOv11m** | **0.9952 ± 0.0095** | 0.9991 ± 0.0018 | 0.9889 ± 0.0222 | 0.9944 ± 0.0111 | 0.9903 ± 0.0194 | **0.9938 ± 0.0124** | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
+| **YOLOv26m** | 0.9806 ± 0.0182 | 0.9962 ± 0.0035 | 0.9817 ± 0.0150 | 0.9791 ± 0.0203 | 0.9780 ± 0.0194 | 0.9749 ± 0.0235 | [🔗 Download](https://aistudio.baidu.com/dataset/detail/373716/intro) |
 
 > ⚠️ Classification metrics (Accuracy, Specificity, Sensitivity, F1, Kappa) and download links will be filled in upon paper acceptance.
 
